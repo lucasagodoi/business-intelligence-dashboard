@@ -97,6 +97,8 @@ business-intelligence-dashboard
 └── requirements.txt
 ---
 
-# Author
+## Author
 
-Lucas Abreu Godoi
+Lucas Abreu Godoi  
+GitHub: https://github.com/lucasagodoi  
+LinkedIn: https://www.linkedin.com/in/lucasgodoi/
